@@ -4,16 +4,7 @@
 This is a simple Node.js project demonstrating **API versioning** using **query parameters** in Express.js.  
 It allows clients to request different versions of an API without breaking existing functionality.
 
----
 
-## Table of Contents
-- [Concepts](#concepts)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoint](#api-endpoint)
-- [License](#license)
-
----
 
 ## Concepts
 
