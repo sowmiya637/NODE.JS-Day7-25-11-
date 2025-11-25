@@ -4,16 +4,7 @@
 This is a simple Node.js project demonstrating **API versioning using request headers** in Express.js.  
 It allows clients to request different versions of an API by specifying the version in the `Accept` header.
 
----
 
-## Table of Contents
-- [Concepts](#concepts)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoint](#api-endpoint)
-- [License](#license)
-
----
 
 ## Concepts
 
